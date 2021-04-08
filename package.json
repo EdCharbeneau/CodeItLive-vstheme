@@ -4,6 +4,10 @@
     "description": "A VS Code theme made by the developers at CodeItLive (twitch.tv/codeitlive).",
     "version": "1.0.2",
     "publisher": "EdCharbeneau",
+    "repository": {
+        "url": "https://github.com/EdCharbeneau/CodeItLive-vstheme",
+        "type": "GitHub"
+    },
     "engines": {
         "vscode": "^1.55.0"
     },
