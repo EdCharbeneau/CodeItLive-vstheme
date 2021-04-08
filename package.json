@@ -1,0 +1,21 @@
+{
+    "name": "codeitlivetheme",
+    "displayName": "CodeItLiveTheme",
+    "description": "A VS Code theme made by the developers at CodeItLive (twitch.tv/codeitlive).",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "CodeItLive",
+                "uiTheme": "vs-dark",
+                "path": "./themes/CodeItLive-color-theme.json"
+            }
+        ]
+    }
+}
