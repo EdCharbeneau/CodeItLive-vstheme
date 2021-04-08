@@ -1,6 +1,6 @@
 # The CodeItLive (stream theme)
 
-A Visual Studio Code theme that uses the CodeItLive brand colors. Build buy the folks at CodeItLive for the audience to enjoy at work and home.
+A Visual Studio Code theme that uses the CodeItLive brand colors. Built by the folks at CodeItLive for the audience to enjoy at work and home.
 
 ## What is CodeItLive
 Code It Live is a channel created by developers, for developers. Each week, we will bring you live coding, pair coding, interviews, charity streams and more.
