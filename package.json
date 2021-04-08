@@ -2,7 +2,7 @@
     "name": "codeitlivetheme",
     "displayName": "CodeItLiveTheme",
     "description": "A VS Code theme made by the developers at CodeItLive (twitch.tv/codeitlive).",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "EdCharbeneau",
     "engines": {
         "vscode": "^1.55.0"
