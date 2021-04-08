@@ -10,6 +10,14 @@
     "categories": [
         "Themes"
     ],
+    "icon": "media/code-it-live.png",
+    "keywords": [
+        "dark theme, streaming, popular themes, color-theme, themes"
+      ],
+      "galleryBanner": {
+        "color": "#5122B9",
+        "theme": "dark"
+      },
     "contributes": {
         "themes": [
             {
