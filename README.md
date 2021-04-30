@@ -5,6 +5,7 @@ A Visual Studio Code theme that uses the CodeItLive brand colors. Built by the f
 ## Preview
 
 ![Theme Preview](https://raw.githubusercontent.com/EdCharbeneau/CodeItLive-vstheme/master/media/theme-preview.jpg)
+![Light Theme Preview](https://raw.githubusercontent.com/EdCharbeneau/CodeItLive-vstheme/master/media/light-theme-preview.jpg)
 
 ## What is CodeItLive
 

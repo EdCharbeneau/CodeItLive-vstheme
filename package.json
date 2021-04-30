@@ -2,7 +2,7 @@
     "name": "codeitlivetheme",
     "displayName": "CodeItLiveTheme",
     "description": "A VS Code theme made by the developers at CodeItLive (twitch.tv/codeitlive).",
-    "version": "1.0.2",
+    "version": "2.0.0",
     "publisher": "EdCharbeneau",
     "repository": {
         "url": "https://github.com/EdCharbeneau/CodeItLive-vstheme",
@@ -16,7 +16,7 @@
     ],
     "icon": "media/code-it-live.png",
     "keywords": [
-        "dark theme, streaming, popular themes, color-theme, themes"
+        "light theme, dark theme, streaming, popular themes, color-theme, themes"
       ],
       "galleryBanner": {
         "color": "#5122B9",
@@ -25,9 +25,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "CodeItLive",
+                "label": "CodeItLive-Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/CodeItLive-color-theme.json"
+            },
+            {
+                "label": "CodeItLive-Light",
+                "uiTheme": "vs",
+                "path": "./themes/CodeItLive-light-color-theme.json"
             }
         ]
     }
